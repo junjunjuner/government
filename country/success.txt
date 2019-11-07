@@ -1,0 +1,9 @@
+
+Fail 2019-10-20 18:21:47报错原因为:[Errno 2] No such file or directory: '/home/260199/爬虫/爬虫数据/政府公告/long_attention.pdf'
+Fail 2019-10-21 09:18:10报错原因为:list index out of range
+Fail 2019-10-21 10:29:39报错原因为:<urlopen error [Errno 110] Connection timed out>
+Fail 2019-10-21 10:46:09报错原因为:<urlopen error [Errno 110] Connection timed out>
+Fail 2019-10-21 11:57:49报错原因为:HTTP Error 404: Not Found
+Fail 2019-10-22 09:26:27报错原因为:'NoneType' object has no attribute 'find_all'
+Fail 2019-11-07 09:45:20报错原因为:'NoneType' object has no attribute 'find_all'
+success 2019-11-07 14:36:58
